@@ -1,0 +1,10 @@
+h1{
+    color: rgb(0 0 0 / 50%);
+    /*color: rgba(0, 0, 0, 50%); desactualizado*/
+    /*color: #fafafa55  (hexadecimal también trabaja con opacidades)*/
+    /*color: hsl(hue, saturation, lightness)*/
+    /*color: transparent; (para convertir algo en transparente)*/
+    border-width: 3px;
+    border-style: solid;
+    border-color: currentColor; 
+}
